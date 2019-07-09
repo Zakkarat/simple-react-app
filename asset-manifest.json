@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-friends-app/static/css/main.11f2e55d.chunk.css",
+    "main.js": "/react-friends-app/static/js/main.00d63020.chunk.js",
+    "main.js.map": "/react-friends-app/static/js/main.00d63020.chunk.js.map",
+    "runtime~main.js": "/react-friends-app/static/js/runtime~main.837fcf4c.js",
+    "runtime~main.js.map": "/react-friends-app/static/js/runtime~main.837fcf4c.js.map",
+    "static/js/2.715286a2.chunk.js": "/react-friends-app/static/js/2.715286a2.chunk.js",
+    "static/js/2.715286a2.chunk.js.map": "/react-friends-app/static/js/2.715286a2.chunk.js.map",
+    "index.html": "/react-friends-app/index.html",
+    "precache-manifest.714463a8f21e11ee510647c995fc75d5.js": "/react-friends-app/precache-manifest.714463a8f21e11ee510647c995fc75d5.js",
+    "service-worker.js": "/react-friends-app/service-worker.js",
+    "static/css/main.11f2e55d.chunk.css.map": "/react-friends-app/static/css/main.11f2e55d.chunk.css.map"
+  }
+}
