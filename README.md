@@ -1,2 +1,2 @@
 # Simple react app
-### [Demo](https://zakkarat.github.io/simple-react-app/)
+### [Demo](https://zakkarat.github.io/infozahystTest/)
